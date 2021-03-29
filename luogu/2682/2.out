@@ -1,0 +1,31 @@
+2 2
+6
+in
+add tmp
+L 7
+add tmp
+get r
+add tmp
+4
+wait
+get l
+add tmp
+L 6
+7
+wait
+get u
+add tmp
+wait
+L 5
+get u
+add tmp
+9
+wait
+wait
+get l
+add tmp
+L 3
+wait
+get l
+add tmp
+out

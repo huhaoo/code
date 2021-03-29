@@ -1,0 +1,81 @@
+Your program is legitimate.
+
+
+This is the state of your chips after 1 cycle(s)
+Id=1,(key=0,tmp=5)  
+
+
+This is the state of your chips after 2 cycle(s)
+Id=1,(key=5,tmp=0)  
+
+
+This is the state of your chips after 3 cycle(s)
+Id=1,(key=4,tmp=0)  
+
+
+This is the state of your chips after 4 cycle(s)
+Id=1,(key=4,tmp=0)  
+
+
+This is the state of your chips after 5 cycle(s)
+Id=1,(key=4,tmp=0)  
+
+
+This is the state of your chips after 6 cycle(s)
+Id=1,(key=3,tmp=0)  
+
+
+This is the state of your chips after 7 cycle(s)
+Id=1,(key=3,tmp=0)  
+
+
+This is the state of your chips after 8 cycle(s)
+Id=1,(key=3,tmp=0)  
+
+
+This is the state of your chips after 9 cycle(s)
+Id=1,(key=2,tmp=0)  
+
+
+This is the state of your chips after 10 cycle(s)
+Id=1,(key=2,tmp=0)  
+
+
+This is the state of your chips after 11 cycle(s)
+Id=1,(key=2,tmp=0)  
+
+
+This is the state of your chips after 12 cycle(s)
+Id=1,(key=1,tmp=0)  
+
+
+This is the state of your chips after 13 cycle(s)
+Id=1,(key=1,tmp=0)  
+
+
+This is the state of your chips after 14 cycle(s)
+Id=1,(key=1,tmp=0)  
+
+
+This is the state of your chips after 15 cycle(s)
+Id=1,(key=0,tmp=0)  
+
+
+This is the state of your chips after 16 cycle(s)
+Id=1,(key=0,tmp=0)  
+
+
+This is the state of your chips after 17 cycle(s)
+Id=1,(key=8,tmp=0)  
+
+
+This is the state of your chips after 18 cycle(s)
+Id=1,(key=8,tmp=0)  
+
+Your program print a integer in chips#1:  8
+
+This is the state of your chips after 19 cycle(s)
+Id=1,(key=8,tmp=0)  
+
+
+Your program runs 19 cycle(s).

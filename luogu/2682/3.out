@@ -1,0 +1,13 @@
+1 2
+3
+in
+add tmp
+and -2147483648
+7
+wait
+get l
+add tmp
+get l
+if tmp
+opp
+out
