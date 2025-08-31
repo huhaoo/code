@@ -4,3 +4,4 @@ thu_homework/*
 *.lib
 *.exp
 *.dll
+.vscode/*
